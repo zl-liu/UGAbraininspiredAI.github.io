@@ -1,0 +1,44 @@
+
+profx:
+    display_name: "Tianming Liu"
+    webpage: "https://cobweb.cs.uga.edu/~tliu/"
+    github: profx
+    role: faculty
+    image: /img/people/tianming.png
+    bio: Professor, Computer Science
+
+profy:
+    display_name: "Xianqiao Wang"
+    webpage: "https://xqwang.engr.uga.edu/"
+    github: profy
+    role: faculty
+    image: /img/people/xianqiao.png
+    bio: Associate Professor, Mechanical Engineering
+
+grad-a:
+    display_name: "Grad A"
+    role: grad
+
+grad-b:
+    display_name: "Graduate Student B With Long Name"
+    role: grad
+
+grad-c:
+    display_name: "Grad C"
+    role: grad
+
+grad-d:
+    display_name: "Grad D"
+    role: grad
+
+collab-a:
+    display_name: "Collaborator A"
+    role: collab
+
+collab-b:
+    display_name: "Collaborator B With Long Name"
+    role: collab
+
+postdoc-c:
+    display_name: "Postdoc C"
+    role: postdoc
