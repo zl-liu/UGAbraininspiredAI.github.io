@@ -1,0 +1,472 @@
+# Faculty
+# Alphabetical order
+
+bodik:
+    display_name: "Ras Bodik"
+    webpage: "https://www.cs.washington.edu/people/faculty/bodik"
+    role: faculty
+    image: /img/people/bodik.jpg
+    bio: "Professor"
+
+luisceze:
+    display_name: "Luis Ceze"
+    webpage: "https://homes.cs.washington.edu/~luisceze/"
+    github: luisceze
+    role: faculty
+    image: /img/people/ceze.jpg
+    bio: "Professor"
+
+eggers:
+    display_name: "Susan Eggers"
+    webpage: "http://homes.cs.washington.edu/~eggers/"
+    role: retired
+    bio: "Emeritus Professor"
+
+#djg:
+#    display_name: "Dan Grossman"
+#    webpage: "https://homes.cs.washington.edu/~djg/"
+#    role: faculty
+#    image: /img/people/djg.jpg
+#    bio: "Professor"
+
+oskin:
+    display_name: "Mark Oskin"
+    webpage: "https://homes.cs.washington.edu/~oskin/"
+    role: faculty
+    image: /img/people/oskin.jpg
+    bio: "Associate Professor"
+
+karin:
+    display_name: "Karin Strauss"
+    webpage: "http://research.microsoft.com/en-us/people/kstrauss/"
+    role: faculty
+    image: /img/people/karin.jpg
+    bio: "Senior Researcher, Microsoft<br>Affiliate Professor, UW CSE"
+
+mbt:
+    display_name: "Michael Taylor"
+    webpage: "https://www.cs.washington.edu/people/faculty/profmbt"
+    role: faculty
+    image: /img/people/mbt.jpg
+    bio: "Associate Professor"
+
+# Staff
+# Alphabetical order
+
+melody:
+    display_name: "Melody Kadenko"
+    webpage: "http://www.cs.washington.edu/homes/melody/"
+    role: staff
+    image: //homes.cs.washington.edu/~melody/index_files/image002.gif
+    bio: "Program Director"
+
+
+# Postdocs
+# Alphabetical order
+
+moreau:
+    display_name: "Thierry Moreau"
+    webpage: "http://homes.cs.washington.edu/~moreau/"
+    role: postdoc
+    image: /img/people/moreau.jpg
+#    bio: Ph.D. 2018
+
+drichmond:
+    display_name: "Dustin Richmond"
+    role: postdoc
+    webpage: "http://www.dustinrichmond.com"
+    image: /img/people/drichmond.jpg
+
+# Grads
+# Alphabetical order
+
+cowanmeg:
+    display_name: "Meghan Cowan"
+    webpage: "https://cowanmeg.github.io/"
+    role: grad
+    image: /img/people/meghan.jpg
+
+stdavids:
+    display_name: "Scott Davidson"
+    role: grad
+    image: /img/people/scott.jpg
+
+behsani:
+    display_name: "Borna Ehsani"
+    role: grad
+
+eafurst:
+    display_name: "Emily Furst"
+    webpage: "https://homes.cs.washington.edu/~eafurst/"
+    role: grad
+    image: /img/people/eafurst.jpg
+
+gaozihou:
+    display_name: "Paul Gao"
+    role: grad
+
+katielim:
+    display_name: "Katie Lim"
+    webpage: "https://homes.cs.washington.edu/~katielim/"
+    role: grad
+    image: /img/people/katielim.png
+
+cyulin:
+    display_name: "Chien-Yu Lin"
+    webpage: "https://homes.cs.washington.edu/~cyulin/"
+    role: grad
+    image: /img/people/chienyu.jpg
+
+mgliu:
+    display_name: Ming Liu
+    webpage: "https://homes.cs.washington.edu/~mgliu/"
+    role: grad
+    image: /img/people/mgliu.jpg
+
+liangluo:
+    display_name: Liang Luo
+    webpage: "https://homes.cs.washington.edu/~liangluo/"
+    role: grad
+    image: /img/people/liangluo.jpg
+
+amrita:
+    display_name: Amrita Mazumdar
+    webpage: "https://homes.cs.washington.edu/~amrita"
+    role: grad
+    image: "//homes.cs.washington.edu/~amrita/assets/img/amz.jpg"
+
+patelp1:
+    display_name: "Pratyush Patel"
+    webpage: "https://homes.cs.washington.edu/~patelp1/"
+    role: grad
+    image: /img/people/patelp1.jpg
+
+mrutt:
+    display_name: "Max Ruttenberg"
+    role: grad
+
+neildryan:
+    display_name: "Neil Ryan"
+    webpage: "https://neildryan.com/"
+    role: grad
+
+gussmith:
+    display_name: "Gus Smith"
+    webpage: "https://justg.us"
+    role: grad
+    image: /img/people/gussmith.jpg
+
+vegaluis:
+    display_name: "Luis Vega"
+    webpage: "https://homes.cs.washington.edu/~vegaluis/"
+    role: grad
+    image: /img/people/luis.jpg
+
+mwillsey:
+    display_name: "Max Willsey"
+    webpage: "https://mwillsey.com"
+    role: grad
+    image: /img/people/max.jpg
+
+wysem:
+    display_name: "Mark Wyse"
+    webpage: "https://homes.cs.washington.edu/~wysem/"
+    role: grad
+    image: /img/people/wysem.jpg
+
+eqy:
+    display_name: "Eddie Yan"
+    webpage: "https://homes.cs.washington.edu/~eqy/"
+    role: grad
+    image: /img/people/eddie.jpg
+
+# Alums
+# The order is: PhD/postdoc by year; MS by year; BS by year
+bornholt:
+    display_name: "James Bornholt"
+    webpage: "https://homes.cs.washington.edu/~bornholt/"
+    role: alum
+    image: "//homes.cs.washington.edu/~bornholt/img/me_square.jpg"
+    bio: "Ph.D., 2019. Now at Amazon / UT Austin."
+vlee2:
+    display_name: Vincent Lee
+    webpage: "http://homes.cs.washington.edu/~vlee2/"
+    role: "alum"
+    image: /img/people/lee.jpg
+    bio: "Ph.D., 2019. Now at Facebook Reality Labs."
+shaolin:
+    display_name: "Shaolin Xie"
+    role: alum
+    webpage: "http://www.shawnless.net/Shawn/"
+    image: /img/people/shaolin.jpg
+    bio: "Postdoc, 2015&ndash;2019. Now at Alibaba."
+armin:
+    display_name: "Armin Alaghi"
+    role: "alum"
+    webpage: "http://homes.cs.washington.edu/~armin/"
+    image: /img/people/armin.jpg
+    bio: "Postdoc, 2015&ndash;2017. Now at Oculus Research."
+jevdjic:
+    display_name: "Djordje Jevdjic"
+    role: "alum"
+    webpage: "http://parsa.epfl.ch/~jevdjic/"
+    bio: "Postdoc, 2015&ndash;2017. Now at Microsoft Research."
+bholt:
+    display_name: "Brandon Holt"
+    webpage: "https://homes.cs.washington.edu/~bholt/"
+    role: "alum"
+    image: /img/people/bholt.jpg
+    bio: "Ph.D., 2016. Now at Apple."
+bdmyers:
+    display_name: "Brandon Myers"
+    webpage: "https://homes.cs.washington.edu/~bdmyers/"
+    role: "alum"
+    image: /img/people/myers.jpg
+    bio: "Ph.D., 2016. Now faculty at Iowa."
+nelson:
+    display_name: "Jacob Nelson"
+    role: "alum"
+    bio: "Ph.D., 2014. Postdoc 2014&ndash;2016. Now at Microsoft Research."
+    image: /img/people/nelson.jpg
+asampson:
+    display_name: "Adrian Sampson"
+    webpage: "http://adriansampson.net/"
+    image: /img/people/adrian.jpg
+    github: sampsyo
+    role: alum
+    bio: "Ph.D., 2015. Now faculty at Cornell."
+ransford:
+    display_name: "Ben Ransford"
+    webpage: "http://ben.ransford.org/"
+    github: ransford
+    role: alum
+    bio: "Postdoc, 2013&ndash;2015. Now CEO at Virta Labs."
+bpw:
+    display_name: "Benjamin Wood"
+    webpage: "https://homes.cs.washington.edu/~bpw/"
+    role: alum
+    bio: "Ph.D., 2014. Now faculty at Wellesley."
+tbergan:
+    display_name: "Tom Bergan"
+    webpage: "https://homes.cs.washington.edu/~tbergan/"
+    role: alum
+    bio: "Ph.D., 2014. Now at Google."
+miker:
+    display_name: "Michael Ringenburg"
+    webpage: "http://homes.cs.washington.edu/~miker/"
+    role: alum
+    bio: "Ph.D., 2014. Now at Cray."
+lucia:
+    display_name: "Brandon Lucia"
+    webpage: "http://brandonlucia.com/"
+    role: alum
+    bio: "Ph.D., 2013. Now faculty at CMU."
+hadi:
+    display_name: "Hadi Esmaeilzadeh"
+    webpage: "http://www.cc.gatech.edu/~hadi/"
+    role: alum
+    bio: "Ph.D., 2013. Now faculty at UC San Diego."
+devietti:
+    display_name: Joe Devietti
+    webpage: "https://www.cis.upenn.edu/~devietti/"
+    role: alum
+    bio: "Ph.D., 2012. Now faculty at UPenn."
+
+sungkim:
+    display_name: "Sung Min Kim"
+    webpage: http://sungkim.net/
+    role: alum
+    image: /img/people/sung.jpg
+    bio: "M.S., 2018."
+
+ashe2:
+    display_name: "Archibald Samuel Elliott"
+    webpage: "http://lenary.co.uk/"
+    image: "/img/people/ashe2.jpg"
+    role: alum
+    bio: "M.S., 2017."
+cdel:
+    display_name: "Carlo Del Mundo"
+    webpage: "http://homes.cs.washington.edu/~cdel/"
+    role: alum
+    image: /img/people/cdel.jpg
+    bio: "M.S., 2016. Now at Xnor.ai."
+katelin:
+    display_name: "Katelin Bailey"
+    webpage: "https://homes.cs.washington.edu/~katelin/"
+    role: alum
+    bio: "M.S., 2015. Now at Microsoft."
+andreolb:
+    display_name: "Andre Baixo"
+    role: alum
+    bio: "M.S., 2015. Now at ARM."
+emackay:
+    display_name: Eric Mackay
+    webpage: "http://homes.cs.washington.edu/~emackay/"
+    role: alum
+    bio: "M.S., 2015. Now at Amazon."
+cody:
+    display_name: Cody Schroeder
+    role: alum
+    bio: "B.S. 2012, M.S. 2013. Now at Google."
+fortuna:
+    display_name: Emily Fortuna
+    role: alum
+    bio: "M.S., 2011. Now at Google."
+hunt:
+    display_name: "Nick Hunt"
+    role: alum
+    bio: "Now guiding at RMI."
+owen:
+    display_name: Owen Anderson
+    role: alum
+    bio: M.S., 2010. Now at Apple.
+bboston:
+    display_name: Brett Boston
+    webpage: "http://people.csail.mit.edu/boston/"
+    role: alum
+    bio: "B.S., 2015. Now at MIT."
+yorkw:
+    display_name: York Wei
+    role: alum
+    bio: "B.S., 2015. Now at VMWare."
+kristian:
+    display_name: Kristian Lieberg
+    role: alum
+    bio: "B.S., 2011. Now at Clean Power Research."
+angda:
+    display_name: Angda (Andy) Chen
+    role: alum
+    bio: B.S., 2008. Now at Amazon.
+
+
+# Undergrads
+# Alphabetical order
+
+
+# Undergrad Alums
+# Alphabetical order
+
+austina2:
+    display_name: Austin Arechiga
+    role: ugrad-alum
+faugusto:
+    display_name: Felipe Augusto
+    role: ugrad-alum
+eblajev:
+    display_name: Evan Blajev
+    role: ugrad-alum
+schowdury:
+    display_name: Sandeep Chowdary
+    role: ugrad-alum
+wenjih:
+    display_name: Wenjie (Marissa) He
+    role: ugrad-alum
+phowe:
+    display_name: Patrick Howe
+    role: ugrad-alum
+umaymah:
+    display_name: Umaymah Khan
+    role: ugrad-alum
+jkotalik:
+    display_name: Justin Kotalik
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/justin-kotalik-0489b597
+veilam:
+    display_name: Wei Lin
+    role: ugrad-alum
+tliu24:
+    display_name: Tianchi Liu
+    role: ugrad-alum
+luluyi:
+    display_name: Luyi Lu
+    role: ugrad-alum
+artem:
+    display_name: Artem Minyaylov
+    role: ugrad-alum
+wyatt:
+    display_name: Wyatt Muntean
+    role: ugrad-alum
+djnoboom:
+    display_name: Daniel Noteboom
+    role: ugrad-alum
+codyohl:
+    display_name: Cody Ohlsen
+    role: ugrad-alum
+    image: /img/people/codyohl.jpg
+    webpage: http://www.linkedin.com/in/codyohlsen
+pshfls:
+    display_name: Sui Pang (Beck)
+    role: ugrad-alum
+    webpage: http://www.linkedin.com/in/beckpang
+shichengfeng:
+    display_name: Chengfeng Shi
+    role: ugrad-alum
+zbsimon:
+    display_name: Zach Simon
+    role: ugrad-alum
+xinyu:
+    display_name: Xinyu Sui
+    role: ugrad-alum
+chenfs:
+    display_name: Chenfan (Frank) Sun
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/chenfansun
+mandary:
+    display_name: Yufang Sun
+    role: ugrad-alum
+joshuay:
+    display_name: Joshua Yip
+    role: ugrad-alum
+
+# Collaborators
+# Alphabetical order
+
+tom:
+    display_name: "Tom Anderson"
+    role: collab
+    webpage: "https://www.cs.washington.edu/people/faculty/tom"
+    bio: "Professor, UW CSE"
+    image: /img/people/tom.jpg
+magda:
+    display_name: "Magda Balazinska"
+    role: collab
+    webpage: "https://www.cs.washington.edu/people/faculty/magda"
+    bio: "Professor, UW CSE"
+    image: /img/people/magda.jpg
+akcheung:
+    display_name: "Alvin Cheung"
+    role: collab
+    webpage: "https://homes.cs.washington.edu/~akcheung/"
+    bio: "Assistant Professor, UC Berkeley EECS"
+    image: /img/people/akcheung.png
+visvesh:
+    display_name: Visvesh Sathe
+    role: collab
+    webpage: http://www.ee.washington.edu/people/visvesh-sathe/
+    bio: "Assistant Professor, UW EE"
+
+# No role (only for retired project photos)
+
+billhowe:
+    display_name: "Bill Howe"
+    webpage: "http://homes.cs.washington.edu/~billhowe/"
+    image: /img/people/billhowe.jpg
+    bio: "Affiliate Faculty and Associate Director of eScience Institute"
+drkp:
+    display_name: "Dan Ports"
+    webpage: "http://drkp.net/"
+    image: /img/people/drkp.jpg
+    bio: "Research Assistant Professor"
+iyzhang:
+    display_name: "Irene Zhang"
+    webpage: http://irenezhang.net/
+    image: /img/people/iyzhang.jpg
+bhaynes:
+    display_name: "Brandon Haynes"
+    webpage: https://brandonhaynes.github.io/
+    image: /img/people/bhaynes.jpg
+
+kendall:
+    display_name: "Kendall Stewart"
+    image: /img/people/kendall.jpg
